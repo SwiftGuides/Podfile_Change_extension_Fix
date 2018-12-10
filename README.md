@@ -3,7 +3,7 @@
 1. Open terminal in the directory where Podfile is present .
 2. Run command 
   
-  `open -a TextEdit Podfile`
+   `open -a TextEdit Podfile`
   
 3. Now your Podfile will open , you can modify it as per your need .
 4. if you are facing this error , Follow Below method to solve it 
